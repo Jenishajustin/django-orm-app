@@ -34,11 +34,9 @@ list_display=('employementnumber','employementname','age','email','place','desig
 ```
 
 ## OUTPUT
-
 Include the screenshot of your admin page.
+
 ![ORMoutput](https://user-images.githubusercontent.com/119405070/210609659-f13972ed-f94c-423b-ad5b-5bbb40773b47.png)
-
-
 ![MODELS](ORM.png)
 ![ORM](https://user-images.githubusercontent.com/119405070/210609751-d0f03828-670f-402b-ac19-c49b1a2a31ef.png)
 
